@@ -387,6 +387,7 @@ footer {
     header {
         display: flex;
         flex-direction: column;
+        background-color: #3d3d3d;
     }
 
     .grid {
@@ -412,3 +413,8 @@ footer {
     .grid-3 {
         grid-template-columns: 1fr;
     }
+
+    .main-content h1 {
+        font-size: 3rem;
+    }
+}
