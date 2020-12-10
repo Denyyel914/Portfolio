@@ -387,7 +387,7 @@ footer {
     header {
         display: flex;
         flex-direction: column;
-        background-color: #3d3d3d;
+        /* background-color: black; */
     }
 
     .grid {
@@ -415,6 +415,6 @@ footer {
     }
 
     .main-content h1 {
-        font-size: 3rem;
+        font-size: 3.2rem;
     }
 }
