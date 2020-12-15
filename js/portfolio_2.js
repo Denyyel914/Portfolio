@@ -19,7 +19,7 @@ const navSlide = () => {
             if(links.style.animation) {
                 links.style.animation = '';
             } else {
-                links.style.animation = `navListFade 0.5s ease forwards ${index / 7 + 2}s`;
+                links.style.animation = `navListFade 0.5s ease forwards ${index / 7 + 0.5}s`;
             }
         });
         burger.classList.toggle('toggle');
