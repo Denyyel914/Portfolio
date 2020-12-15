@@ -510,6 +510,10 @@ footer {
         opacity: 0;
     }
 
+    .details h2 {
+        font-size: 2rem; 
+    }
+
     .burger {
         display: block;
     }
