@@ -499,9 +499,9 @@ footer {
         display: flex;
         flex-direction: column;
         align-items: center;
-        /* width: 100%;
-        height: 50vh; */
         width: 50%;
+        height: 80vh;
+        /* width: 50%; */
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
     }
